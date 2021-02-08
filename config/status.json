@@ -1,0 +1,10 @@
+{
+    "NOT_FOUND"                  : "No ships found with the name provided",
+    "NO_SHIPPING_MOVEMENTS_FOUND": "No shipping movements found",
+    "PORT_NOT_FOUND"             : "Port not found",
+    "INVALID_PORT_STATUS"        : "Invalid port status",
+    "NO_MATCHES_FOUND"           : "No matches found",
+    "SUCCESS"                    : "Shipping movements data updated",
+    "UNABLE_TO_SAVE_DATA"        : "Unable to save data",
+    "PORT_CREATED"               : "Port created"
+}

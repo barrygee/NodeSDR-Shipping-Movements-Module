@@ -1,0 +1,53 @@
+{
+    "tyne": {
+        "name": "tyne",
+        "urls": {
+            "host": "https://www.portoftyne.co.uk/",
+            "movements": "https://www.portoftyne.co.uk/marine-information/shipping-movements",
+            "news": "https://www.portoftyne.co.uk/news-and-media/news"
+        },
+        "location": {
+            "latitude": "54.978998",
+            "longitude": "-1.445164"
+        },
+        "frequencies": {
+            "vts": "156.600",
+            "tugs": "156.500",
+            "operations": "156.550",
+            "harbour": "156.800"
+        } 
+    },
+    "sunderland": {
+        "name": "sunderland",
+        "urls": {
+            "movements": "https://www.portofsunderland.org.uk/shipping-movements",
+            "news": "https://www.portofsunderland.org.uk/news"
+        },
+        "location": {
+            "lat": "54.912277",
+            "lon": "-1.366422"
+        },
+        "frequencies": {
+            "vts": "UNKNOWN",
+            "operations": "UNKNOWN",
+            "harbour": "UNKNOWN"
+        }
+    },
+    "belfast": {
+        "name": "belfast",
+        "urls": {
+            "expected": "https://booking.belfast-harbour.co.uk/",
+            "inPort": "https://booking.belfast-harbour.co.uk/",
+            "history": "https://booking.belfast-harbour.co.uk/"
+        },
+        "location": {
+            "lat": "54.6172",
+            "lon": "5.9063"
+        },
+        "frequencies": {
+            "vts": "UNKNOWN",
+            "operations": "UNKNOWN",
+            "harbour": "UNKNOWN"
+        }
+    }
+}
